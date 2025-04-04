@@ -1,1 +1,2 @@
 # GATE-Question-Classification
+Designed and implemented a multi-class NLP classification pipeline using TF-IDF and Multinomial Naïve Bayes on a curated dataset of 1,700 GATE CSE questions across 8 technical subjects. Achieved 84.1% test accuracy on 4,017 TF-IDF features, with 'Computer Organization and Architecture' as the most frequent topic. Performed topic-wise performance evaluation using precision, recall, and F1-score metrics.
